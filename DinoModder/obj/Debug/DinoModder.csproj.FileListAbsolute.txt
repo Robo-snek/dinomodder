@@ -1,0 +1,17 @@
+C:\Users\chich\source\repos\DinoModder\DinoModder\bin\Debug\DinoModder.exe.config
+C:\Users\chich\source\repos\DinoModder\DinoModder\bin\Debug\DinoModder.exe
+C:\Users\chich\source\repos\DinoModder\DinoModder\bin\Debug\DinoModder.pdb
+C:\Users\chich\source\repos\DinoModder\DinoModder\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\Users\chich\source\repos\DinoModder\DinoModder\bin\Debug\WebDriver.dll
+C:\Users\chich\source\repos\DinoModder\DinoModder\bin\Debug\WebDriver.Support.dll
+C:\Users\chich\source\repos\DinoModder\DinoModder\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\Users\chich\source\repos\DinoModder\DinoModder\bin\Debug\WebDriver.xml
+C:\Users\chich\source\repos\DinoModder\DinoModder\bin\Debug\WebDriver.Support.xml
+C:\Users\chich\source\repos\DinoModder\DinoModder\obj\Debug\DinoModder.csprojAssemblyReference.cache
+C:\Users\chich\source\repos\DinoModder\DinoModder\obj\Debug\DinoModder.MainForm.resources
+C:\Users\chich\source\repos\DinoModder\DinoModder\obj\Debug\DinoModder.Properties.Resources.resources
+C:\Users\chich\source\repos\DinoModder\DinoModder\obj\Debug\DinoModder.csproj.GenerateResource.cache
+C:\Users\chich\source\repos\DinoModder\DinoModder\obj\Debug\DinoModder.csproj.CoreCompileInputs.cache
+C:\Users\chich\source\repos\DinoModder\DinoModder\obj\Debug\DinoModder.csproj.CopyComplete
+C:\Users\chich\source\repos\DinoModder\DinoModder\obj\Debug\DinoModder.exe
+C:\Users\chich\source\repos\DinoModder\DinoModder\obj\Debug\DinoModder.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DinoModder", "DinoModder\DinoModder.csproj", "{04846409-2C10-4BFD-A76D-44D86C354FF5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04846409-2C10-4BFD-A76D-44D86C354FF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04846409-2C10-4BFD-A76D-44D86C354FF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04846409-2C10-4BFD-A76D-44D86C354FF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04846409-2C10-4BFD-A76D-44D86C354FF5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A50DF7C-C878-4DD1-89B2-4CD014DC2C1F}
+	EndGlobalSection
+EndGlobal
